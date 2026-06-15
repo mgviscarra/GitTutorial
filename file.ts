@@ -1,7 +1,7 @@
 //Some code here
 export class Path {
     private path: string;
-    private static instance: Path;
+    private static instance1: Path;
 
     constructor(path: string) {
         this.path = path;
